@@ -1,0 +1,8 @@
+project:
+    type: default
+    output-dir: docs
+
+website:
+    title: "AI's Linguistics Fingerprint"
+    page-navigation: true
+
